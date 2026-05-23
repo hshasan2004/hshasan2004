@@ -69,14 +69,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=hshasan2004&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=a371f7"/>
-
-</div>
-
 ## 🐾 Contribution Graph
 
 <picture>
