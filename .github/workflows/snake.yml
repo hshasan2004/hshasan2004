@@ -1,3 +1,4 @@
+
 name: Generate Pacman Contribution Graph
 on:
   schedule:
