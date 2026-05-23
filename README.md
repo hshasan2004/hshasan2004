@@ -1,43 +1,94 @@
-<h3>Hello 👋</h3>
-<ul>
-  <li>I'm <b><a href="https://sites.google.com/diu.edu.bd/hasan386/home">Mohammad Hasan</a></b></li>
-  <li>📔 I'm currently studying CSE at <b><a href="https://en.wikipedia.org/wiki/Daffodil_International_University">Daffodil International University</a></b></li>
-  <li>📫 How to reach me: <a href="mailto:hshasan2004@gmail.com">hshasan2004@gmail.com</a></li>
-</ul>
-<h3>🔗 Connect with me:</h3>
-<p>
+<h1 align="center">Hey 👋 I'm Mohammad Hasan</h1>
+
+<h3 align="center">
+  <samp>CSE Student &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; AI Enthusiast</samp>
+</h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,react,mysql,firebase,aws,linux&theme=dark" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
   <a href="https://www.linkedin.com/in/mohammad-hasan-8962362a5/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://codeforces.com/profile/hasan2004">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codeforces.svg" height="30"/>
-  </a>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://www.facebook.com/hs.hasan.1217727">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:hshasan2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-<h3>💻 Tech Stack:</h3>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+- 🎓 CSE Student at **Daffodil International University**
+- 🤖 Interested in **Artificial Intelligence**, NLP & Machine Learning
+- 📚 Working with **LSTM**, **BERT** & **PyTorch**
+- ⚡ Building **Python Automation** & Web Projects
+
+<br/>
+
+🌐 **Portfolio:** [sites.google.com/diu.edu.bd/hasan386](https://sites.google.com/diu.edu.bd/hasan386/home)  
+📫 **Email:** [hshasan2004@gmail.com](mailto:hshasan2004@gmail.com)
+
+</td>
+<td valign="center" width="45%">
+
+<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="400" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css" alt="Languages"/>
-  </a>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hshasan2004&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hshasan2004&layout=compact&theme=tokyonight&card_width=320" />
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bash,linux,ubuntu" alt="Tools"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,mysql" alt="Frameworks and DB"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=hshasan2004&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=a371f7"/>
+
+</div>
+
+## 🐾 Contribution Graph
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hshasan2004/hshasan2004/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hshasan2004/hshasan2004/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/hshasan2004/hshasan2004/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hshasan2004/hshasan2004/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hshasan2004/hshasan2004/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hshasan2004/hshasan2004/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<div align="center">
+
+### ✦ Code &nbsp;·&nbsp; Learn &nbsp;·&nbsp; Build &nbsp;·&nbsp; Improve ✦
+
+</div>
