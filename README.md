@@ -1,4 +1,11 @@
-<h1 align="center">Hey 👋 I'm Mohammad Hasan</h1>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=999999&color=58a6ff&center=true&vCenter=true&random=false&width=600&duration=3000&lines=Hey+%F0%9F%91%8B+I'm+Mohammad+Hasan&loop=false" />
+
+</div>
+
+
 
 <h3 align="center">
   <samp>CSE Student &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; AI Enthusiast</samp>
