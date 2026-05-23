@@ -48,7 +48,7 @@
 
 - 🎓 CSE Student at **Daffodil International University**
 - 🤖 Interested in **Artificial Intelligence**, NLP & Machine Learning
-- 📚 Working with **LSTM**, **BERT** & **PyTorch**
+- 📚 Working with **PyTorch**
 - ⚡ Building **Python Automation** & Web Projects
 
 <br/>
