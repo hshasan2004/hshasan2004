@@ -1,23 +1,25 @@
-
 name: Generate Pacman Contribution Graph
+
 on:
   schedule:
     - cron: "0 */12 * * *"
+
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
 permissions:
   contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate Pacman Graph
+      - name: Generate Pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: hshasan2004
-      - name: Push generated content
+
+      - name: Push Pacman graph
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
