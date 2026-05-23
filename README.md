@@ -52,7 +52,7 @@
 </td>
 <td valign="center" width="45%">
 
-<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="300" alt="coding gif"/>
+<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="400" alt="coding gif"/>
 
 </td>
 </tr>
