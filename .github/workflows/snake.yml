@@ -1,4 +1,4 @@
-name: Generate Pacman Contribution Graph
+name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
@@ -14,12 +14,14 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate Pacman Graph
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate pacman graph
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: hshasan2004
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
       - name: Push generated content
         uses: crazy-max/ghaction-github-pages@v3
